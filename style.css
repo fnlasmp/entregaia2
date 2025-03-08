@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Lighter background color */
+    padding: 20px;
+}
+
+h1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #333;
+    font-size: 3.75em;
+    margin-bottom: 20px;
+}
+
+#chat-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #e6f7ff; /* Lighter chat container color */
+}
+
+#user-input {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#send-button {
+    width: 20%;
+    padding: 10px;
+    background-color: #4682B4; /* Lighter button color */
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
